@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer science in Sapientia, Tg. Mures.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me :
-           email: madaras.ervin@gmail.com
+           email: madaraservin@gmail.com
            facebook: https://www.facebook.com/ervin.madaras/
            
 
